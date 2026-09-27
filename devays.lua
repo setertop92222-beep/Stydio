@@ -12,7 +12,7 @@ local player = Players.LocalPlayer
 -- ============================================
 
 local SCRIPTS_PC = {
-    {"[FPS] One Tap BY: HCM2_stydio", "https://raw.githubusercontent.com/setertop92222-beep/HeriCraft_HUB/refs/heads/main/onetap.lua"},
+    {"[FPS] One Tap BY: HCM2_stydio (NEW)", "https://raw.githubusercontent.com/setertop92222-beep/Stydio/refs/heads/main/onetab.lua"},
     -- ДОБАВЛЯЙ СЮДА:
     -- {"Название", "https://ссылка.lua"},
 }
