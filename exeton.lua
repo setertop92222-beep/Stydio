@@ -11,8 +11,8 @@ local player = Players.LocalPlayer
 -- ССЫЛКИ
 -- ============================================
 
-local PASSWORDS_URL = "https://raw.githubusercontent.com/setertop92222-beep/HeriCraft_HUB/refs/heads/main/passwords.lua"
-local MENU_URL = "https://raw.githubusercontent.com/setertop92222-beep/HeriCraft_HUB/refs/heads/main/menu.lua"
+local PASSWORDS_URL = "https://raw.githubusercontent.com/setertop92222-beep/Stydio/refs/heads/main/kay.lua"
+local MENU_URL = "https://raw.githubusercontent.com/setertop92222-beep/Stydio/refs/heads/main/devays.lua"
 
 -- ============================================
 -- ЦВЕТА
