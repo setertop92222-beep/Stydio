@@ -4,4 +4,5 @@ return {
     "VIP-ACCESS",
     "ADMIN-KEY",
     "FREE-2026",
+    "HERICRFT",
 }
