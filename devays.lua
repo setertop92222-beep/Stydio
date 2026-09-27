@@ -12,17 +12,12 @@ local player = Players.LocalPlayer
 -- ============================================
 
 local SCRIPTS_PC = {
-    {"[FPS] One Tap", "https://raw.githubusercontent.com/setertop92222-beep/HeriCraft_HUB/refs/heads/main/onetap.lua"},
-    {"ESP с разделами", "https://raw.githubusercontent.com/setertop92222-beep/HeriCraft_HUB/refs/heads/main/esp_sections.lua"},
-    {"ESP", "https://raw.githubusercontent.com/setertop92222-beep/HeriCraft_HUB/refs/heads/main/esp.lua"},
-    {"Aimbot", "https://raw.githubusercontent.com/setertop92222-beep/HeriCraft_HUB/refs/heads/main/aimbot.lua"},
+    {"[FPS] One Tap BY: HCM2_stydio", "https://raw.githubusercontent.com/setertop92222-beep/HeriCraft_HUB/refs/heads/main/onetap.lua"},
     -- ДОБАВЛЯЙ СЮДА:
     -- {"Название", "https://ссылка.lua"},
 }
 
 local SCRIPTS_MOBILE = {
-    {"Mobile ESP", "https://raw.githubusercontent.com/ТВОЙ_АККАУНТ/РЕПО/main/mobile_esp.lua"},
-    {"Mobile Aimbot", "https://raw.githubusercontent.com/ТВОЙ_АККАУНТ/РЕПО/main/mobile_aimbot.lua"},
     -- ДОБАВЛЯЙ СЮДА:
     -- {"Название", "https://ссылка.lua"},
 }
