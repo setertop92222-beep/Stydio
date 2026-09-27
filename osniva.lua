@@ -1,7 +1,3 @@
--- ============================================
--- HCM2_STUDIO - ЕДИНЫЙ СКРИПТ
--- ============================================
-
 local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 local TweenService = game:GetService("TweenService")
@@ -11,9 +7,7 @@ local player = Players.LocalPlayer
 -- ============================================
 -- НАСТРОЙКИ
 -- ============================================
-
--- ССЫЛКА НА ФАЙЛ С ПАРОЛЯМИ (RAW)
-local PASSWORDS_URL = "https://raw.githubusercontent.com/setertop92222-beep/HeriCraft_HUB/refs/heads/main/passwords.lua"
+local PASSWORDS_URL = "https://raw.githubusercontent.com/setertop92222-beep/Stydio/refs/heads/main/kay.lua"
 
 -- ============================================
 -- СПИСКИ СКРИПТОВ
